@@ -11,5 +11,8 @@ public class Input {
 
         System.out.print("The message you have entered is : ");
         System.out.println(msg);
+
+        System.out.print("The message you have entered is : ");
+        System.out.println(msg);
     }
 }
